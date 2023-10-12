@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kelvin Dhoman</h1>
 <h3 align="center">A recent Computer Science Graduate that’s eager to innovate and excel in Software Engineering Roles</h3>
 
-- 🔭 I’m currently working on [rennovating my portfolio websitte](https://github.com/LaughinMann/portfolio_website)
+- 🔭 I’m currently working on [rennovating my portfolio websitte](https://github.com/LaughinMann/portfolio_website) along with creating more projects utilizing Java, C++, and the MERN stack.
 
 - 👨‍💻 All of my projects are available at [https://laughinmann.github.io/](https://laughinmann.github.io/)
 
