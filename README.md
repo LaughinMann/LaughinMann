@@ -3,8 +3,6 @@
 
 - 👨‍💻 All of my projects are available at [https://laughinmann.github.io/](https://laughinmann.github.io/)
 
-- 📫 How to reach me **kelvin.dhoman@gmail.com**
-
 - 📄 Know about my experiences [https://laughinmann.github.io/static/media/resume_web.eb6e2dd330460f4a5aee.pdf](https://laughinmann.github.io/static/media/resume_web.eb6e2dd330460f4a5aee.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
